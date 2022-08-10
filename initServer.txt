@@ -1,0 +1,2 @@
+To start a custom browser to test files 
+npx browser-sync start --server --no-open --no-notify --directory
